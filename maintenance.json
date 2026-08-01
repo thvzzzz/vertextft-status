@@ -1,5 +1,5 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "title": "VERTEXTFT MAINTENANCE",
   "message": "Hệ thống đang tạm ngưng để bảo trì và triển khai bản cập nhật mới.",
   "until": "",
