@@ -1,7 +1,18 @@
 {
-  "maintenance": false,
+  "maintenance": true,
+  "global_maintenance": false,
+  "status_mode": "force_update",
+  "force_update": true,
+  "minimum_version": "1.1.0",
+  "latest_version": "1.1.0",
+  "blocked_versions": [
+    "1.0.0"
+  ],
+  "update_title": "VERTEXTFT UPDATE REQUIRED",
+  "update_message": "Phiên bản VertexTFT hiện tại đã ngừng hỗ trợ. Vui lòng tải bản mới để tiếp tục sử dụng.",
+  "download_url": "https://discord.gg/PUBrf3zQ5",
   "title": "VERTEXTFT MAINTENANCE",
-  "message": "Hệ thống đang tạm ngưng để bảo trì và triển khai bản cập nhật mới.",
+  "message": "Hệ thống hiện đang được tạm ngưng để bảo trì và triển khai bản cập nhật mới.",
   "until": "",
-  "discord": "https://discord.gg/Skg79NC66"
+  "discord": "https://discord.gg/PUBrf3zQ5"
 }
