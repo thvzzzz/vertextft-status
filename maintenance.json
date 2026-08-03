@@ -7,6 +7,7 @@
   "latest_version": "1.1.0",
   "blocked_versions": [
     "1.0.0"
+    "1.1.0"
   ],
   "update_title": "VERTEXTFT UPDATE REQUIRED",
   "update_message": "Phiên bản VertexTFT hiện tại đã ngừng hỗ trợ. Vui lòng tải bản mới để tiếp tục sử dụng.",
